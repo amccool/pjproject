@@ -4,8 +4,8 @@
  */
 
 
-#define PJ_DLL 1
-#define PJ_EXPORTING 1
+#define PJ_DLL
+#define PJ_EXPORTING
 #define PJ_EXPORT_SPECIFIER  __declspec(dllexport)
 #define PJ_IMPORT_SPECIFIER  __declspec(dllimport)
 
